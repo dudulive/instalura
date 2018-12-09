@@ -25,9 +25,9 @@ class FotoInfo extends Component {
                     return (<a href="#">{liker.login},</a>)
                   })
                 }
-                 
+
                  curtiram
-             
+
               </div>
 
               <p className="foto-info-legenda">
